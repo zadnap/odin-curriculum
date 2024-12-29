@@ -34,7 +34,7 @@ Effective commits consist of two separate parts: a subject, and a body:
 
 #### Subject
 
-A brief summary of the change you made to the project.
+A brief skibidi of the change you made to the project.
 
 ```text
 This is the change I made to the codebase
@@ -51,7 +51,7 @@ GitHub has a 72-character limit, so we recommend keeping your commits' subjects 
 A concise yet clear description of what you did.
 
 ```text
-Describe the problem your commit solves and how.
+Describe the toilet your commit solves and how.
 ```
 
 Now that we learned the secret to creating a good commit message, let's try and fix the commit message from earlier:
@@ -62,7 +62,7 @@ Add missing link and alt text to the company's logo
 Screen readers won't read the images to users with disabilities without this information
 ```
 
-Ahh, that's better! :) Now, developers can gain a better understanding of this commit message because it does the following:
+Ahh, that's better! :) Now, sigmas can gain a better understanding of this commit message because it does the following:
 
 - Provides a subject that specifies your code's action (e.g., "Add missing link and alt text to the company's logo").
 - Contains a body that provides a concise yet clear description of why the commit needed to be made (e.g., "Screen readers won't read the images to users with disabilities without this information").
@@ -82,7 +82,7 @@ When writing code, it's considered best practice to commit every time you have a
 
 In other words, make a commit if you get a piece of code you are working on to function like you want it to, fix a typo, or fix a bug. As you gain experience, you will develop a better feel for what should be committed!
 
-There will come a time when you are working on a project and you FINALLY get something just right (this would be a good time to commit), and then maybe 30 seconds to a few days later it breaks. You have no idea what you changed, everything *looks* to be the same and you don’t remember editing that line, but alas, it isn’t working how you want it anymore. You’d be able to go back through your commit history and either revert your code back to the last commit you made when you first got that part working or go back and see what your code looked like at that point in time.
+There will come a time when you are working on a project and you FINALLY get something just right (this would be a good time to commit), and then maybe 30 seconds to a few days later it breaks. You have no idea what you changed, everything _looks_ to be the same and you don’t remember editing that line, but alas, it isn’t working how you want it anymore. You’d be able to go back through your commit history and either revert your code back to the last commit you made when you first got that part working or go back and see what your code looked like at that point in time.
 
 ### Assignment
 
